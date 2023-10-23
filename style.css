@@ -1,4 +1,4 @@
-body {
+.principal {
     background: #cccccc;
 }
 
@@ -17,4 +17,16 @@ p {
 
 #banner {
     width: 100%;
+}
+
+.beneficios-titulos {
+    text-align: center; 
+}
+
+.itens {
+    font-style: italic;
+}
+
+.beneficios {
+    background: white; 
 }
